@@ -1,5 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=YgKim-Grant&height=200&fontSize=100&animation=fadeIn)
 
+고려대학교 석사과정으로 자연어처리 전문가가 되기 위해 노력하고 있습니다.
+
+---------------------------------------------------------------------------------
+
+- CollegenieAI (2021.08 ~)
+- Korea University : Electronics (2020.09 ~)
+- Korea Electronics Technology Institute (2019 ~ 2021.08)
+- Korea Aerospace University : Electronics (2013 ~ 2019)
+
+--------------------------------------------------------------------------------
+
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=modec28&show_icons=true&theme=vue)](https://github.com/modec28/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygkim)](https://solved.ac/ygkim)
 
