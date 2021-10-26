@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=YgKim-Grant&height=200&fontSize=100&animation=fadeIn)
 
-고려대학교 석사과정으로 자연어처리 전문가가 되기 위해 노력하고 있습니다.
 
 ---------------------------------------------------------------------------------
 
@@ -16,7 +15,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=modec28&show_icons=true&theme=vue)](https://github.com/modec28/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygkim)](https://solved.ac/ygkim)
 
-
+<div align=center>
 <img src="https://img.shields.io/badge/PlayStation-003791?style=flat-square&logo=PlayStation&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adidas-000000?style=flat-square&logo=Adidas&logoColor=white"/></a>
 
@@ -27,3 +26,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+</div>
