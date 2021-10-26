@@ -3,10 +3,10 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=modec28&show_icons=true&theme=gotham)](https://github.com/modec28/github-readme-stats)
 ---------------------------------------------------------------------------------
 
-- CollegenieAI (2021.08 ~)
-- Korea University : Electronics (2020.09 ~)
-- Korea Electronics Technology Institute (2019 ~ 2021.08)
-- Korea Aerospace University : Electronics (2013 ~ 2019)
+- ## CollegenieAI (2021.08 ~)
+- ## Korea University : Electronics (2020.09 ~)
+- ## Korea Electronics Technology Institute (2019 ~ 2021.08)
+- ## Korea Aerospace University : Electronics (2013 ~ 2019)
 
 --------------------------------------------------------------------------------
 
