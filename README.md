@@ -17,7 +17,6 @@
 
 <div align=center>
 <img src="https://img.shields.io/badge/PlayStation-003791?style=flat-square&logo=PlayStation&logoColor=white"/></a>
-
 <img src="https://img.shields.io/badge/Adidas-000000?style=flat-square&logo=Adidas&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
