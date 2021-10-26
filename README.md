@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20ygkim%20%20&height=200&fontSize=100&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20A rolling stone does not gather moss%20%20&height=200&fontSize=100&animation=blinking)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=modec28&show_icons=true&theme=vue)](https://github.com/modec28/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygkim)](https://solved.ac/ygkim)
