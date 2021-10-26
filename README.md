@@ -2,3 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=modec28&show_icons=true&theme=vue)](https://github.com/modec28/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygkim)](https://solved.ac/ygkim)
+
+#<img src="https://img.shields.io/badge/{icons}?style=&logo={logo_name}&logoColor=white"/></a>&nbsp 
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
