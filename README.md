@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&text=YgKim-Grant&height=200&fontSize=100&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23&text=YgKim-Grant&height=200&fontSize=100&animation=fadeIn)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=modec28&show_icons=true&theme=gotham)](https://github.com/modec28/github-readme-stats)
 ---------------------------------------------------------------------------------
