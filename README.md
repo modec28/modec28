@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=modec28&show_icons=true&theme=gotham)](https://github.com/modec28/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=modec28&show_icons=true&theme=gotham)](https://github.com/modec28/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygkim)](https://solved.ac/ygkim)
 
 <div align=center>
