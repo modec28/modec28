@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-680094?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kafka-680094?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SQS-680094?style=flat-square&logo=Amazon SQS&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/ECS-680094?style=flat-square&logo=Amazon ECS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Vercel-8C8C8C?style=flat-square&logo=Vercel&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Firebase-8C8C8C?style=flat-square&logo=Firebase&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jenkins-8C8C8C?style=flat-square&logo=Jenkins&logoColor=white"/></a>
